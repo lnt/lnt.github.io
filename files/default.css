@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<title>404 Error</title>
+
+<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/f403876e-f022-49f7-8652-ab2efbb0d8bb.css">
+
+<link rel="stylesheet" type="text/css" href="/shared/themes/reset.css">
+<link rel="stylesheet" type="text/css" href="/shared/themes/clearfix.css">
+<link rel="stylesheet" type="text/css" href="/shared/css/error.css">
+
+</head>
+  
+<body>
+
+<div class="clearfix header">
+  <a class="logo" href="//branded.me/"><img src="/shared/img/logo.png"></a>
+  <a class="button signup" href="//branded.me/signup">Sign up</a>
+  <a class="button login" href="//branded.me/login">Login</a>
+</div>
+
+<div class="clearfix content">
+  <img src="/shared/img/icon-error.png">
+  <h1>Page Not Found</h1>
+  <p>Sorry, the page you are looking for does not exist.
+Please check the URL. Otherwise, <a href="//branded.me/">go to our homepage</a></p>
+<span>Need help? Contact us at <a href="mailto:support@branded.me">support@branded.me</a></span>
+</div>
+
+</body>
+</html>
