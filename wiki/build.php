@@ -6,7 +6,7 @@
  * Time: 4:52 PM
  */
 
-error_reporting(0);
+//error_reporting(0);
 require 'vendor/smarty/smarty/libs/Smarty.class.php';
 $smarty = new Smarty;
 
@@ -17,5 +17,6 @@ $smarty->cache_lifetime = 120;
 $smarty->setTemplateDir("/");
 
 $smarty->assign("profile", include("profile.php"), true);
+$smarty->assign("PROFILE", include("profile.php"), true);
 
 file_put_contents("index.html", $smarty->fetch('index.tpl'));
