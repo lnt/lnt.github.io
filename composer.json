@@ -1,4 +1,7 @@
 {
+    "config": {
+        "vendor-dir": "wiki/vendor"
+    },
     "require": {
         "smarty/smarty": "^3.1"
     }

@@ -16,5 +16,6 @@ $smarty->cache_lifetime = 120;
 $smarty->setTemplateDir("/");
 
 $smarty->assign("profile", include("profile.php"), true);
+$smarty->assign("PROFILE", include("profile.php"), true);
 
 $smarty->display('index.tpl');

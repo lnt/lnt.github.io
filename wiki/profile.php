@@ -10,5 +10,7 @@
 return array(
     "fname" => "Lalit",
     "lname" => "Tanwar",
-    "profile_title" => "UI Architect"
+    "profile_title" => "UI Architect",
+    "CURRENT" => "UNICOMMERCE",
+    "UNICOMMERCE" => "Unicommerce eSolutions Pvt. Ltd"
 );

@@ -6,6 +6,7 @@
  * Time: 4:52 PM
  */
 
+error_reporting(0);
 require 'vendor/smarty/smarty/libs/Smarty.class.php';
 $smarty = new Smarty;
 
@@ -18,4 +19,3 @@ $smarty->setTemplateDir("/");
 $smarty->assign("profile", include("profile.php"), true);
 
 file_put_contents("index.html", $smarty->fetch('index.tpl'));
-$smarty->display('index.tpl');
