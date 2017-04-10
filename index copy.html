@@ -1,0 +1,12 @@
+<div class="outer"><div class="innerdiv">Hi, this is center</div></div>
+
+.outer {
+    width : 100%;
+    position : relative;
+}
+.innerdiv{
+    text-align : center;
+    position : absolute;
+    top : calc (50% - $width);
+    left : calc (50% - $height); 
+}
