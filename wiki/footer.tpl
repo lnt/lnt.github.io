@@ -27,7 +27,7 @@
         <li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie
                 statement</a></li>
         <li id="footer-places-mobileview"><a
-                    href="https://en.m.wikipedia.org/w/index.php?title=Satya_Nadella&amp;mobileaction=toggle_view_mobile"
+                    href="https://en.m.wikipedia.org/w/index.php?title=Lalit_Tanwar&amp;mobileaction=toggle_view_mobile"
                     class="noprint stopMobileRedirectToggle">Mobile view</a></li>
     </ul>
     <ul id="footer-icons" class="noprint">

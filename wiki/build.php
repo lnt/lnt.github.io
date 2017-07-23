@@ -6,7 +6,7 @@
  * Time: 4:52 PM
  */
 
-//error_reporting(0);
+error_reporting(0);
 require 'vendor/smarty/smarty/libs/Smarty.class.php';
 $smarty = new Smarty;
 

@@ -4,7 +4,7 @@
 <head>
     {include file="head.tpl"}
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Satya_Nadella rootpage-Satya_Nadella skin-vector action-view feature-footer-v2">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lalit_Tanwar rootpage-Lalit_Tanwar skin-vector action-view feature-footer-v2">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -98,12 +98,7 @@
                 height="1" style="border: none; position: absolute;" /&gt;</noscript>
         </div>
 
-        <div class="printfooter">
-            Retrieved from "<a dir="ltr"
-                               href="https://en.wikipedia.org/w/index.php?title=Satya_Nadella&amp;oldid=745796468">https://en.wikipedia.org/w/index.php?title=Satya_Nadella&amp;oldid=745796468</a>"
-        </div>
-
-        {include file="catlinks.tpl"}
+        {*{include file="catlinks.tpl"}*}
 
         <div class="visualClear"></div>
     </div>

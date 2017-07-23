@@ -29,7 +29,7 @@
                     <li id="ca-nstab-main" class="selected"><span><a href=""
                                                                      title="View the content page [ctrl-option-c]"
                                                                      accesskey="c">Article</a></span></li>
-                    <li id="ca-talk"><span><a href="https://en.wikipedia.org/wiki/Talk:Satya_Nadella"
+                    <li id="ca-talk"><span><a href="https://en.wikipedia.org/wiki/Talk:Lalit_Tanwar"
                                               title="Discussion about the content page [ctrl-option-t]" accesskey="t"
                                               rel="discussion">Talk</a></span></li>
                 </ul>
@@ -52,11 +52,11 @@
                     <li id="ca-view" class="selected"><span><a
                                     href="">Read</a></span></li>
                     <li id="ca-viewsource"><span><a
-                                    href="https://en.wikipedia.org/w/index.php?title=Satya_Nadella&amp;action=edit"
+                                    href="https://en.wikipedia.org/w/index.php?title=Lalit_Tanwar&amp;action=edit"
                                     title="This page is protected.
 You can view its source [ctrl-option-e]" accesskey="e">View source</a></span></li>
                     <li id="ca-history" class="collapsible"><span><a
-                                    href="https://en.wikipedia.org/w/index.php?title=Satya_Nadella&amp;action=history"
+                                    href="https://en.wikipedia.org/w/index.php?title=Lalit_Tanwar&amp;action=history"
                                     title="Past revisions of this page [ctrl-option-h]" accesskey="h">View
                                 history</a></span>
                     </li>

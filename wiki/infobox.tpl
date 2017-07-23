@@ -5,11 +5,11 @@
         </th>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:center"><a href="https://en.wikipedia.org/wiki/File:Satya_Nadella.jpg"
+        <td colspan="2" style="text-align:center"><a href="https://en.wikipedia.org/wiki/File:Lalit_Tanwar.jpg"
                                                      class="image"><img alt="Satya Nadella.jpg"
                                                                         src="./w/me.jpg" width="250"
                                                                         height="217"
-                                                                        srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Satya_Nadella.jpg/375px-Satya_Nadella.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Satya_Nadella.jpg/500px-Satya_Nadella.jpg 2x"
+                                                                        srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lalit_Tanwar.jpg/375px-Lalit_Tanwar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lalit_Tanwar.jpg/500px-Lalit_Tanwar.jpg 2x"
                                                                         data-file-width="1731" data-file-height="1503"></a>
 
             <div>Lalit at <a href="https://en.wikipedia.org/wiki/Imagica" class="mw-redirect"
