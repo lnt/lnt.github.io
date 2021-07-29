@@ -1,3 +1,4 @@
+![unidesk](https://user-images.githubusercontent.com/5462166/127459423-217816b3-c302-43b2-9586-468b0f7c77a4.png)
 ## Unidesk 
 is a customer support tool with features such as real-time chat, ticket management and easy-to-integrate web client. 
 ### Technologies – 
