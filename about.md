@@ -48,21 +48,13 @@ You can find a list of my research publications on [Google scholar][]. I have tr
 
 Open source projects: 
 - [rudrax/boot][]
-- [grunt-bootloader ][]
+- [grunt-bootloader][]
 - [bootloader][]
 - [quikrjs][]
-
-
-
 
 
 [rudrax/boot]: https://github.com/rudraks/boot
 [grunt-bootloader]: https://www.npmjs.com/package/grunt-bootloader
 [bootloader]: https://github.com/webmodule/bootloader
-[Harvard/MIT Health Science & Technology Institute]: http://hst.mit.edu
-[University of Toronto]: http://www.utoronto.ca/
-[Engineering Science]: http://engsci.utoronto.ca/
-[almlab]: http://almlab.mit.edu/elipapa.html
-[MIT]: http://web.mit.edu
-[kubernetes]: https://github.com/kubernetes/kubernetes
-[luigi]: https://github.com/spotify/luigi
+[quikrjs]: hhttps://github.com/lnt/quikr.js
+
