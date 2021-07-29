@@ -1,4 +1,11 @@
-Lalit Tanwar
+---
+layout: cv
+title: Lalit Tanwar's CV
+---
+# Lalit Tanwar
+Web Architecture | Leadership | Algorithms | Analytics | Data Science | Problem Solving 
+
+
 -------- ----------
 | Details 
 | --- 
