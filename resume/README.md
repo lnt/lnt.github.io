@@ -1,11 +1,13 @@
-Johnny Coder
-============
+Lalit Tanwar
+===============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+------------------ 
+
+* | Address: Delhi, India
+* | Mobile No.: +91-9930104050 
+* | Email ID: lalit.tanwar07@gmail.com
+* | Website: www.lalittanwar.com
+
 
 Education
 ---------
