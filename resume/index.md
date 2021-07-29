@@ -1,101 +1,91 @@
 ---
 layout: cv
-title: Lalit Tanwar's CV
+title: Isaac Newtons's CV
 ---
-# Lalit Tanwar
-Web Architecture | Leadership | Algorithms | Analytics | Data Science | Problem Solving 
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 
--------- ----------
-| Details 
-| --- 
-| Address: Delhi, India
-| Mobile No.: +91-9930104050 
-| Email ID: lalit.tanwar07@gmail.com
-| Website: www.lalittanwar.com
+## Currently
+
+Standing on the shoulders of giants
+
+### Specialized in
+
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-Education
----------
+### Research interests
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Education
 
-    *Minor: Awesomeology*
+`1654-1660`
+__The King's School, Grantham.__
 
-Experience
-----------
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-**Your Most Recent Work Experience:**
+- Sizar
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+`1667 - death`
+__Trinity College, Cambridge__
 
-* First item
+- Fellow
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
 
-Also with a short description.
+## Awards
 
-Technical Experience
---------------------
+`2012`
+President, *Royal Society*, London, UK
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Associate, *French Academy of Science*, Paris, France
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Publications
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+### Journals
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+`1669`
+Lectiones opticæ.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+etc. etc. etc.
 
-* Human Languages:
+### Patents
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-* Random tidbit
 
-* Other sort of impressive-sounding thing you did
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
