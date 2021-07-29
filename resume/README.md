@@ -1,9 +1,11 @@
 Lalit Tanwar
 -------- ----------
-* | Address: Delhi, India
-* | Mobile No.: +91-9930104050 
-* | Email ID: lalit.tanwar07@gmail.com
-* | Website: www.lalittanwar.com
+| Details 
+| --- 
+| Address: Delhi, India
+| Mobile No.: +91-9930104050 
+| Email ID: lalit.tanwar07@gmail.com
+| Website: www.lalittanwar.com
 
 
 Education
