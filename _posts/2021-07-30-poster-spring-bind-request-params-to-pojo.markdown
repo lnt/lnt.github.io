@@ -18,8 +18,6 @@ externalLink: false
 
 # How to bind @RequestParam to object in Spring
 
-<div class="entry-content">
-
 Do you have multiple parameters annotated with _@RequestParam_ in a request mapping method and feel it isn’t readable?
 
 The annotation looks pretty straightforward when there’s one or two input parameters expected in a request but when the list gets longer you might feel overwhelmed.
