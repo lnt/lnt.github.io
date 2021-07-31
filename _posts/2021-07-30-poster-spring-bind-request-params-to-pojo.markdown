@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to bind @RequestParam to POJO in Spring"
-date: 2012-05-08 22:33
+date: 2021-07-30 22:33
 comments: true
 tag: 
 - springboot
@@ -13,10 +13,8 @@ headerImage: true
 projects: false
 category: blog
 author: lt
-externalLink: false
+externalLink: http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
 ---
-
-# How to bind @RequestParam to object in Spring
 
 Do you have multiple parameters annotated with _@RequestParam_ in a request mapping method and feel it isn’t readable?
 
