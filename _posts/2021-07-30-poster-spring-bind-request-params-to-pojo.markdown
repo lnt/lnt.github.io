@@ -8,7 +8,7 @@ tag:
 - java
 - swagger
 - springfox
-image: "{{ site.url }}/assets/images/ibdML-poster.png"
+image: "https://progressivecoder.com/wp-content/uploads/2019/03/spring-boot.png"
 headerImage: true
 projects: false
 category: blog
