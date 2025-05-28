@@ -8,7 +8,7 @@ tag:
 - java
 - swagger
 - springfox
-image: "https://progressivecoder.com/wp-content/uploads/2019/03/spring-boot.png"
+image: 
 headerImage: true
 projects: false
 category: blog
