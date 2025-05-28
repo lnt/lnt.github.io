@@ -15,6 +15,11 @@ category: blog
 author: lt
 externalLink: http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
 ---
+
+
+![image](https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826)
+
+
 ## 1. Web Server: 
 Hosts websites and delivers web content to clients over the internet 
  
