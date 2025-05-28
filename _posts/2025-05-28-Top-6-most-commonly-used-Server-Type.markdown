@@ -13,9 +13,10 @@ headerImage: true
 projects: false
 category: blog
 author: lt
-externalLink: http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
+externalLink: 
 ---
 
+# Top 6 most commonly used Server Type
 
 ![image](https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826)
 
