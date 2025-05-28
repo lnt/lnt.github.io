@@ -8,7 +8,7 @@ tag:
 - networking
 - http
 - web
-image: "https://media.licdn.com/dms/image/v2/D4E22AQEwlcaoebGHZA/feedshare-shrink_2048_1536/B4EZcLEswiHsAo-/0/1748237472351?e=1751500800&v=beta&t=irVzkQx7PqSVCd8L6Pq97ui2whkB1BaOYeDcU-vU3Xw"
+image: "https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826"
 headerImage: true
 projects: false
 category: blog
