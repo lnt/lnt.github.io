@@ -4,10 +4,9 @@ title: "How to bind @RequestParam to POJO in Spring"
 date: 2021-07-30 22:33
 comments: true
 tag: 
-- springboot
-- java
-- swagger
-- springfox
+- server
+- networking
+- http
 image: 
 headerImage: true
 projects: false
