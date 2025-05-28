@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top 6 most commonly used Server Type"
-date: 2021-07-30 22:33
+date: 2025-05-28 22:00
 comments: true
 tag: 
 - server
