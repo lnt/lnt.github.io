@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to bind @RequestParam to POJO in Spring"
+title: "Top 6 most commonly used server type"
 date: 2021-07-30 22:33
 comments: true
 tag: 
