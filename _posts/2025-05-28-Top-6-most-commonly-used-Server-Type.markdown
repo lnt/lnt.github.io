@@ -18,25 +18,22 @@ externalLink:
 
 # Top 6 most commonly used Server Type
 
-![image](https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826)
-
-
-## 1. Web Server: 
+1. Web Server: 
 Hosts websites and delivers web content to clients over the internet 
  
-## 2. Mail Server: 
+2. Mail Server: 
 Handles the sending, receiving, and routing of emails across networks 
  
-## 3. DNS Server: 
+3. DNS Server: 
 Translates domain names (like bytebytego. com) into IP addresses, enabling users to access websites by their human-readable names. 
  
-## 4. Proxy Server: 
+4. Proxy Server: 
 An intermediary server that acts as a gateway between clients and other servers, providing additional security, performance optimization, and anonymity. 
  
-## 5. FTP Server: 
+5. FTP Server: 
 Facilitates the transfer of files between clients and servers over a network 
  
-## 6. Origin Server: 
+6. Origin Server: 
 Hosts central source of content that is cached and distributed to edge servers for faster delivery to end users. 
- 
-## Conclusion
+
+![image](https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826)
