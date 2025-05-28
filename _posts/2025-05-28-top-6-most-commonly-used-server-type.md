@@ -7,7 +7,7 @@ tag:
 - server
 - networking
 - http
-image: 
+image: "https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826"
 headerImage: true
 projects: false
 category: blog
