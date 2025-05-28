@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Top 6 most commonly used Server Type"
-date: 2025-05-28 22:00
+title: "How to bind @RequestParam to POJO in Spring"
+date: 2021-07-30 22:33
 comments: true
 tag: 
-- server
-- networking
-- http
-- web
-image: "https://github.com/user-attachments/assets/47729328-23c2-4a43-8438-31aa9833c826"
+- springboot
+- java
+- swagger
+- springfox
+image: 
 headerImage: true
 projects: false
 category: blog
 author: lt
-externalLink: 
+externalLink: http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
 ---
 
 Lets see commonly used Server Type
