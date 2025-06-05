@@ -54,6 +54,7 @@ Open source projects:
 - [quikrjs][]
 - [bootloader][]
 - [boot-express][]
+- [boot-module][]
 
 
 [bootphp]: https://github.com/bootphp
@@ -61,4 +62,5 @@ Open source projects:
 [quikrjs]: hhttps://github.com/lnt/quikr.js
 [bootloader]: https://github.com/bootloader
 [boot-express]: https://github.com/bootloader/boot-express
+[boot-module]: https://github.com/webmodule/bootloader
 
