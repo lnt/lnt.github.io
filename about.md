@@ -4,11 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hello World! Welcome to my website. Let me introduce myself. I am a web technolgist, crazy geek in the world of Web. I build web solutions for product development organizations.
+Hello World! Welcome to my website. Let me introduce myself. I am — a web technologist, architect, and lifelong builder. I craft scalable, high-impact web systems with a focus on clean design, performance, and real-world value.
 
-I learn, design, build and optimize web solutions. I believe working with a team and deliver the solution as a team. I have built Web architecture for complex financial analytics system, travel ecosystem and e-commerce logistics applications. All three experiences are fantastic :-)
+Over the years, I’ve led the architecture for platforms in finance, travel, and e-commerce logistics — each shaping my approach to building resilient, elegant systems. From Redis-backed messaging flows to custom MongoDB abstractions, I enjoy solving complex problems with thoughtful code.
 
-I am passionate about writing libraries and conributing to opensource developers community. Still seeking challenging and rewarding role to extend my knowledge and abilities to build fantastic products.
+I’m passionate about writing libraries, contributing to the open-source community, and creating tools that make developers more productive. I believe great products are built by great teams — and I thrive on collaboration and continuous learning.
+
+Still seeking bold, challenging problems — and always eager to build what’s next.
 
 
 <!--## Education 
