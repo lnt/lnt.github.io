@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explain the JavaScript Event Loop"
-date: 2021-07-30 22:33
+date: 2025-06-10 00:00
 comments: true
 tag: 
 - browser
