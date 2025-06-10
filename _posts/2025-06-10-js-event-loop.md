@@ -31,9 +31,3 @@ JavaScript is single-threaded, which means it can only execute one task at a tim
 ➤ Microtasks Queue: There's also a microtasks queue for tasks like promises. This queue has a higher priority than the callback queue. The event loop checks the microtasks queue first, ensuring these tasks are processed before other callbacks.
 
 ➤ Priority Handling: To sum it up, the event loop first checks the microtasks queue. If it's empty, it moves to the callback queue. This ensures that critical tasks, like promises, are handled promptly.
-
-Restart your application and play around with the parameters of the HTTP request. It should work as before.
-
-## Conclusion
-
-In this article, you could see that HTTP request parameters bound in Spring MVC controllers using _@RequestParam_ can be easily replaced with a parameter object which groups several attributes and is nothing more than a simple POJO or optionally an immutable DTO.
